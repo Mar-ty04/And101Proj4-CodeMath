@@ -8,7 +8,7 @@ Time spent: 6 hours spent in total
 
 Tip Calculator is an android app that calculates the tip of an amount that the user inputs, they can select from 10%, 15%, 18%, and 20%
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 💯 💩 🍉
 
 ## Application Features
 
@@ -42,7 +42,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to allow for user interaction in andriod studio which was challenging but fun!
 
 ## License
 
